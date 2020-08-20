@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/FinTechLab-NUS/Save-Save-FrontEnd#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
